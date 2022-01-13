@@ -7,4 +7,4 @@ spec:
   selector:
     app: hello-eks-a
   ports:
-    - port: 443
+    - port: 80
